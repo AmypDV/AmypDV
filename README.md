@@ -23,8 +23,7 @@
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [ ] Закончить проект - игра "Sea Battle"      
 <!-- TODO-IST:END -->
 <!--
 **AmypDV/AmypDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
